@@ -1,4 +1,4 @@
-package com.medyali.mview
+package com.medyali.myWebView
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

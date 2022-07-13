@@ -1,4 +1,4 @@
-package com.medyali.mview
+package com.medyali.myWebView
 
 import org.junit.Test
 
